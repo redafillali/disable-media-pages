@@ -1,0 +1,57 @@
+# Copyright (C) 2023 Reda El Fillali
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Disable Media Pages 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/disable-media-pages\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-06-22T15:05:14+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: disable-media-pages\n"
+
+#. Plugin Name of the plugin
+#: admin/admin.php:115
+#: admin/admin.php:116
+msgid "Disable Media Pages"
+msgstr ""
+
+#. Description of the plugin
+msgid "Disable media attachment pages."
+msgstr ""
+
+#. Author of the plugin
+msgid "Reda El Fillali"
+msgstr ""
+
+#: admin/admin.php:79
+msgid "Disable Media Pages Plugin Settings"
+msgstr ""
+
+#: admin/admin.php:83
+msgid "Options updated successfully."
+msgstr ""
+
+#: admin/admin.php:92
+msgid "Ignored Media Files:"
+msgstr ""
+
+#: admin/admin.php:96
+msgid "Remove"
+msgstr ""
+
+#: admin/admin.php:99
+msgid "Absolute path of the file"
+msgstr ""
+
+#: admin/admin.php:100
+msgid "Add"
+msgstr ""
+
+#: admin/admin.php:105
+msgid "Save Options"
+msgstr ""
