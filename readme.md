@@ -37,4 +37,4 @@ A: You're welcome to contribute to the development of this plugin by creating pu
 
 ## License
 
-[GPL-2.0+](https://www.gnu.org/licenses/gpl-2.0.html) © Your Name
+[GPL-2.0+](https://www.gnu.org/licenses/gpl-2.0.html) © Reda EL Fillali
